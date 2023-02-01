@@ -1,9 +1,13 @@
+body {
+    background-color: skyblue;
+}
+
 h1 {
-    font-size: 72px;  
+    font-size: 50px;
 }
 
 h2 {
-    color: #00ff00;
+    color: #0000ff;
 }
 
 h4.job-title {
